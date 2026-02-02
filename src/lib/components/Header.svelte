@@ -25,11 +25,6 @@
           >About</a
         >
         <a
-          href="/pricing"
-          class={`text-lg font-medium tracking-wide hover:underline transition-all ${scrolled ? "text-black" : "text-white"}`}
-          >Pricing</a
-        >
-        <a
           href="/designers"
           class={`text-lg font-medium tracking-wide hover:underline transition-all ${scrolled ? "text-black" : "text-white"}`}
           >Designers</a
